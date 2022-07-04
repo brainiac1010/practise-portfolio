@@ -1,0 +1,38 @@
+body {
+
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(40, 20, 220);
+
+
+}
+
+.blue-color {
+    color: rgb(255, 0, 0);
+
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 40%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 120%;
+}
+
+.বাচাও-button {
+    text-decoration: none;
+    background-image: linear-gradient(red, blue);
+    padding: 10px 40px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 700;
+}
